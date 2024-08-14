@@ -1,0 +1,13 @@
+C:\Users\27671\Desktop\PRG262\BelgiumCampusRegistrationApp\bin\Debug\BelgiumCampusRegistrationApp.exe.config
+C:\Users\27671\Desktop\PRG262\BelgiumCampusRegistrationApp\bin\Debug\BelgiumCampusRegistrationApp.exe
+C:\Users\27671\Desktop\PRG262\BelgiumCampusRegistrationApp\bin\Debug\BelgiumCampusRegistrationApp.pdb
+C:\Users\27671\Desktop\PRG262\BelgiumCampusRegistrationApp\obj\Debug\BelgiumCampusRegistrationApp.csproj.AssemblyReference.cache
+C:\Users\27671\Desktop\PRG262\BelgiumCampusRegistrationApp\obj\Debug\BelgiumCampusRegistrationApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\27671\Desktop\PRG262\BelgiumCampusRegistrationApp\obj\Debug\BelgiumCampusRegistrationApp.Form1.resources
+C:\Users\27671\Desktop\PRG262\BelgiumCampusRegistrationApp\obj\Debug\BelgiumCampusRegistrationApp.Properties.Resources.resources
+C:\Users\27671\Desktop\PRG262\BelgiumCampusRegistrationApp\obj\Debug\BelgiumCampusRegistrationApp.csproj.GenerateResource.cache
+C:\Users\27671\Desktop\PRG262\BelgiumCampusRegistrationApp\obj\Debug\BelgiumCampusRegistrationApp.csproj.CoreCompileInputs.cache
+C:\Users\27671\Desktop\PRG262\BelgiumCampusRegistrationApp\obj\Debug\BelgiumCampusRegistrationApp.exe
+C:\Users\27671\Desktop\PRG262\BelgiumCampusRegistrationApp\obj\Debug\BelgiumCampusRegistrationApp.pdb
+C:\Users\27671\Desktop\PRG262\BelgiumCampusRegistrationApp\obj\Debug\BelgiumCampusRegistrationApp.DeleteForm.resources
+C:\Users\27671\Desktop\PRG262\BelgiumCampusRegistrationApp\obj\Debug\BelgiumCampusRegistrationApp.SearchForm.resources
