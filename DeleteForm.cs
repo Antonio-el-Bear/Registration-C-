@@ -19,17 +19,44 @@ namespace BelgiumCampusRegistrationApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //Creating object of Student and DataHandler classes
-            Student student = new Student();
-            DataHandler handler = new DataHandler();
+            if (string.IsNullOrWhiteSpace(txtStudentID.Text))
+            {
+                MessageBox.Show("Please enter a Student ID", "Validation Error");
+                return;
+            }
 
-            student.StudentID = int.Parse(textBox1.Text);
-            handler.Delete(student.StudentID);  //Invoking delete method
+            if (!int.TryParse(txtStudentID.Text, out int studentID))
+            {
+                MessageBox.Show("Student ID must be a number", "Validation Error");
+                return;
+            }
+
+            // Ask for confirmation before deletion
+            DialogResult result = MessageBox.Show(
+                $"Are you sure you want to delete the student with ID: {studentID}?\nThis action cannot be undone.",
+                "Confirm Deletion",
+                MessageBoxButtons.YesNo,
+                MessageBoxIcon.Warning
+            );
+
+            if (result == DialogResult.Yes)
+            {
+                //Creating object of Student and DataHandler classes
+                Student student = new Student();
+                DataHandler handler = new DataHandler();
+
+                student.StudentID = studentID;
+                handler.Delete(student.StudentID);  //Invoking delete method
+                
+                //Clear the textbox
+                txtStudentID.Clear();
+                txtStudentID.Focus();
+            }
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Environment.Exit(0);  //closes the form  
+            this.Close();
         }
     }
 }

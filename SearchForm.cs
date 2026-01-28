@@ -19,20 +19,31 @@ namespace BelgiumCampusRegistrationApp
 
         private void Search_Click(object sender, EventArgs e)
         {
+            if (string.IsNullOrWhiteSpace(txtStudentID.Text))
+            {
+                MessageBox.Show("Please enter a Student ID", "Validation Error");
+                return;
+            }
+
+            if (!int.TryParse(txtStudentID.Text, out int studentID))
+            {
+                MessageBox.Show("Student ID must be a number", "Validation Error");
+                return;
+            }
+
             //Creating Student and DataHandler objects
             Student student = new Student();
             DataHandler handler = new DataHandler();
 
-            student.StudentID = int.Parse(textBox1.Text);   //Get StudentID from textbox
+            student.StudentID = studentID;   //Get StudentID from textbox
            
-            //Bindng searched row of data to DataGridView    
-            dataGridView1.DataSource = handler.Search(student.StudentID);
-
+            //Binding searched row of data to DataGridView    
+            dgvResults.DataSource = handler.Search(student.StudentID);
         }
 
         private void Exit_Click(object sender, EventArgs e)
         {
-            Environment.Exit(0);
+            this.Close();
         }
     }
 }

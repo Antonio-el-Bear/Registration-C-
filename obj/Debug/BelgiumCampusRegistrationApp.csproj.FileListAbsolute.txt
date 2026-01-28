@@ -11,3 +11,15 @@ C:\Users\27671\Desktop\PRG262\BelgiumCampusRegistrationApp\obj\Debug\BelgiumCamp
 C:\Users\27671\Desktop\PRG262\BelgiumCampusRegistrationApp\obj\Debug\BelgiumCampusRegistrationApp.pdb
 C:\Users\27671\Desktop\PRG262\BelgiumCampusRegistrationApp\obj\Debug\BelgiumCampusRegistrationApp.DeleteForm.resources
 C:\Users\27671\Desktop\PRG262\BelgiumCampusRegistrationApp\obj\Debug\BelgiumCampusRegistrationApp.SearchForm.resources
+C:\Users\User\Documents\Freelance\Clients\Atriple a recreuitment\Estate-site\Registration-C-\obj\Debug\BelgiumCampusRegistrationApp.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Freelance\Clients\Atriple a recreuitment\Estate-site\Registration-C-\obj\Debug\BelgiumCampusRegistrationApp.exe
+C:\Users\User\Documents\Freelance\Clients\Atriple a recreuitment\Estate-site\Registration-C-\obj\Debug\BelgiumCampusRegistrationApp.pdb
+C:\Users\User\Documents\Freelance\Clients\Atriple a recreuitment\Estate-site\Registration-C-\obj\Debug\BelgiumCampusRegistrationApp.DeleteForm.resources
+C:\Users\User\Documents\Freelance\Clients\Atriple a recreuitment\Estate-site\Registration-C-\obj\Debug\BelgiumCampusRegistrationApp.Form1.resources
+C:\Users\User\Documents\Freelance\Clients\Atriple a recreuitment\Estate-site\Registration-C-\obj\Debug\BelgiumCampusRegistrationApp.Properties.Resources.resources
+C:\Users\User\Documents\Freelance\Clients\Atriple a recreuitment\Estate-site\Registration-C-\obj\Debug\BelgiumCampusRegistrationApp.SearchForm.resources
+C:\Users\User\Documents\Freelance\Clients\Atriple a recreuitment\Estate-site\Registration-C-\obj\Debug\BelgiumCampusRegistrationApp.csproj.GenerateResource.cache
+C:\Users\User\Documents\Freelance\Clients\Atriple a recreuitment\Estate-site\Registration-C-\obj\Debug\BelgiumCampusRegistrationApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Freelance\Clients\Atriple a recreuitment\Estate-site\Registration-C-\bin\Debug\BelgiumCampusRegistrationApp.exe.config
+C:\Users\User\Documents\Freelance\Clients\Atriple a recreuitment\Estate-site\Registration-C-\bin\Debug\BelgiumCampusRegistrationApp.exe
+C:\Users\User\Documents\Freelance\Clients\Atriple a recreuitment\Estate-site\Registration-C-\bin\Debug\BelgiumCampusRegistrationApp.pdb
